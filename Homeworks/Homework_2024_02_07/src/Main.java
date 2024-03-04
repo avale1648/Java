@@ -1,4 +1,4 @@
-import console.CommandManager;
+import util.console.CommandManager;
 public class Main {
     public static void main(String[] args) {
         var cm = new CommandManager(20);

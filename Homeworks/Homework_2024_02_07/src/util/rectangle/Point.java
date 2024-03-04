@@ -1,22 +1,22 @@
-package util;
+package util.rectangle;
 public class Point {
-    private final int x;
-    private final int y;
+    private final int X;
+    private final int Y;
     public Point(int x, int y){
         if(x < 0){
             throw new IllegalArgumentException("Negative argument: x");
         }
-        this.x = x;
+        this.X = x;
         if(y < 0){
             throw new IllegalArgumentException("Negative argument: y");
         }
-        this.y = y;
+        this.Y = y;
     }
     public int getX(){
-        return x;
+        return X;
     }
     public int getY(){
-        return y;
+        return Y;
     }
     @Override
     public boolean equals(Object obj) {
@@ -24,11 +24,11 @@ public class Point {
             return false;
         }
         var p = (Point)obj;
-        return this.x == p.x && this.y == p.y;
+        return this.X == p.X && this.Y == p.Y;
     }
 
     @Override
     public int hashCode() {
-        return x + y;
+        return X + Y;
     }
 }
