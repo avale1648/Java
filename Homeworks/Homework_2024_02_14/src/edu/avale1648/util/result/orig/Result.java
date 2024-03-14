@@ -1,6 +1,6 @@
-package edu.avale1648.result.orig;
+package edu.avale1648.util.result.orig;
 
-import edu.avale1648.util.exceptions.UnwrapFailureException;
+import edu.avale1648.lang.UnwrapFailureException;
 
 public class Result<R, E> {
     private final R VALUE;
@@ -25,7 +25,7 @@ public class Result<R, E> {
         return IS_OK;
     }
 
-    public boolean isErr() {
+    public boolean isError() {
         return !IS_OK;
     }
 
@@ -40,8 +40,8 @@ public class Result<R, E> {
     public R okOrDefault(R defaultValue) {
         return IS_OK ? VALUE: defaultValue;
     }
-    
+
     public E errOrDefault(E defaultError) {
-        return IS_OK? null: ERROR != null? ERROR: defaultError;
+        return IS_OK ? null: ERROR != null? ERROR: defaultError;
     }
 }
