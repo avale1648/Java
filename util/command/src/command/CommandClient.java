@@ -1,4 +1,4 @@
-package edu.avale1648.homework_2024_02_21.util.command;
+package command;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,24 +12,16 @@ public class CommandClient {
 
 	public CommandClient() {
 		Command help = (String[] args) -> {
-			System.out.println("help - get list of commands;"
-					+ "\nins yyyy-mm-dd title description - add new event to schedule;" + "\nxp - get schedule;"
-					+ "\nrm - remove schedule;" + "\nArgs for xp and rm:" + "\n\t-a - get/remove all events;"
-					+ "\n\t-s yyyy-mm-dd title - get/remove single event with date and title;"
-					+ "\n\t-d yyyy-mm-dd yyyy-mm-dd - get/remove events in date range;"
-					+ "\n\t-t title - get/remove events with title;" + "\nstop - stop process.\n");
+			System.out.println("help - get list of commands;" + "\nstop - stop process.\n");
 		};
-		Command ins = RECEIVER::execIns;
-		Command xp = RECEIVER::execXp;
-		Command rm = RECEIVER::execRm;
 		Command stop = (String[] args) -> {
 			isRunning = false;
+			System.out.println("Process is stopped");
 		};
+		Command cmd = RECEIVER::execCmd;
 		SWITCHER.register("help", help);
-		SWITCHER.register("ins", ins);
-		SWITCHER.register("xp", xp);
-		SWITCHER.register("rm", rm);
 		SWITCHER.register("stop", stop);
+		SWITCHER.register(null, cmd);
 	}
 
 	public void execute() {
@@ -47,14 +39,13 @@ public class CommandClient {
 			if (SWITCHER.contains(commandName) == false) {
 				System.out.format("There is no command: %s", commandName);
 			}
-
 			try {
 				SWITCHER.execute(commandName, args.toArray(String[]::new));
-			} catch (Exception ex) {
+			} catch(Exception ex) {
 				System.out.println(ex.getMessage());
 			}
-
-			System.out.println("Process is finished");
 		}
+
+		System.out.println("Process is finished");
 	}
 }
