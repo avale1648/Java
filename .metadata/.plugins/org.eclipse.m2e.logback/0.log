@@ -1,1 +1,171 @@
 2024-03-17 18:26:32,473 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-22 20:58:10,388 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-22 20:58:53,293 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-22 21:02:21,864 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-22 21:07:45,912 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.avale1638:classwork_2024_03_22:0.0.1-SNAPSHOT @ C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\pom.xml.
+2024-03-22 21:07:47,242 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:47,243 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:07:47,251 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:47,253 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:07:47,969 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/main/java
+2024-03-22 21:07:47,973 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/main/resources
+2024-03-22 21:07:47,975 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/test/java
+2024-03-22 21:07:47,976 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/test/resources
+2024-03-22 21:07:48,321 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-22 21:07:48,851 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.avale1638:classwork_2024_03_22:0.0.1-SNAPSHOT @ C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\pom.xml.
+2024-03-22 21:07:49,563 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:49,564 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:07:49,567 [Worker-13: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:49,568 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:07:49,568 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of classwork_2024_03_22
+2024-03-22 21:07:49,569 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for classwork_2024_03_22
+2024-03-22 21:07:50,223 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/main/java
+2024-03-22 21:07:50,226 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/main/resources
+2024-03-22 21:07:50,227 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/test/java
+2024-03-22 21:07:50,229 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/test/resources
+2024-03-22 21:07:50,421 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for classwork_2024_03_22
+2024-03-22 21:07:50,446 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 1,00 sec 
+2024-03-22 21:07:51,259 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:51,260 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:07:51,263 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:07:51,264 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:07:51,264 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of classwork_2024_03_22
+2024-03-22 21:07:51,264 [Worker-14: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for classwork_2024_03_22
+2024-03-22 21:10:13,447 [Worker-1: https://download.oracle.com/otn_software/oepe/library/oracle-maf-2-rt/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.oracle.com:443
+2024-03-22 21:10:38,451 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-22 21:10:39,021 [Worker-0: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/classwork_2024_03_22/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:913)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1097)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1054)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1096)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:289)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:241)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-03-22 21:22:08,274 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.avale1648:classwork_2024_03_22:0.0.1-SNAPSHOT @ C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\pom.xml.
+2024-03-22 21:22:09,477 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/main/java
+2024-03-22 21:22:09,482 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/main/resources
+2024-03-22 21:22:09,483 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/test/java
+2024-03-22 21:22:09,484 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/test/resources
+2024-03-22 21:22:09,595 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:09,597 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:22:09,601 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:09,602 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:22:10,521 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-22 21:22:10,872 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.avale1648:classwork_2024_03_22:0.0.1-SNAPSHOT @ C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\pom.xml.
+2024-03-22 21:22:11,504 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/main/java
+2024-03-22 21:22:11,506 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/main/resources
+2024-03-22 21:22:11,507 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /classwork_2024_03_22/src/test/java
+2024-03-22 21:22:11,508 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /classwork_2024_03_22/src/test/resources
+2024-03-22 21:22:11,672 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:11,673 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:22:11,676 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:11,677 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:22:11,678 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of classwork_2024_03_22
+2024-03-22 21:22:11,679 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for classwork_2024_03_22
+2024-03-22 21:22:12,287 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for classwork_2024_03_22
+2024-03-22 21:22:12,324 [Worker-13: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-22 21:22:13,240 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:13,241 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:22:13,243 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:13,244 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:22:13,244 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of classwork_2024_03_22
+2024-03-22 21:22:13,244 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for classwork_2024_03_22
+2024-03-22 21:22:38,680 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.avale1648:classwork_2024_03_22:0.0.1-SNAPSHOT @ C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\pom.xml.
+2024-03-22 21:22:39,214 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:39,216 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:22:39,220 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:22:39,221 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:22:39,222 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of classwork_2024_03_22
+2024-03-22 21:22:39,222 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for classwork_2024_03_22
+2024-03-22 21:24:13,064 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:24:13,065 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:24:13,067 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:24:13,068 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-22 21:24:43,976 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:24:43,977 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-22 21:24:43,979 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-22 21:24:43,980 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:30:05,139 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-24 18:32:04,176 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:32:04,178 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:32:04,181 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:32:04,182 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:37:56,010 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:37:56,011 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:37:56,014 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:37:56,015 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:38:28,483 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:38:28,484 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:38:28,486 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:38:28,487 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:39:16,292 [Worker-6: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:39:16,293 [Worker-6: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:39:16,295 [Worker-6: Building Workspace] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:39:16,296 [Worker-6: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:39:37,333 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:39:37,334 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:39:37,338 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:39:37,340 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:41:12,042 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:41:12,043 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:41:12,047 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:41:12,048 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:49:27,961 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:49:27,961 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:49:27,964 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:49:27,966 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:49:36,251 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:49:36,252 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:49:36,256 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:49:36,257 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 18:50:37,137 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:50:37,139 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 18:50:37,143 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 18:50:37,144 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 19:09:18,723 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:09:18,724 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 19:09:18,726 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:09:18,727 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 19:21:49,303 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:21:49,305 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 19:21:49,316 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:21:49,317 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 19:29:46,634 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:29:46,635 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 19:29:46,637 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:29:46,638 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 19:38:32,830 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:38:32,831 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 19:38:32,832 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 19:38:32,833 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:06:38,316 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:06:38,317 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:06:38,319 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:06:38,320 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:09:31,399 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:09:31,401 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:09:31,403 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:09:31,404 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:09:59,423 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:09:59,424 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:09:59,431 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:09:59,432 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:10:34,332 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:10:34,333 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:10:34,335 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:10:34,336 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:15:37,319 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:15:37,320 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:15:37,322 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:15:37,323 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
+2024-03-24 20:26:48,390 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:26:48,391 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\main\resources
+2024-03-24 20:26:48,393 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-24 20:26:48,394 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\avale1648\source\repos\Java\classwork_2024_03_22\src\test\resources
