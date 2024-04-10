@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\avale1648\source\repos\Java\classworks"/>
 			<item value="C:\Users\avale1648\source\repos\Java\Homeworks"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,13 +27,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="edu.avale1648.homework_2"/>
+			<item value="edu.avale1648.classwork_2024_03_10"/>
 		</list>
 		<list key="groupId">
 			<item value="edu.avale1648"/>
 		</list>
 		<list key="artifactId">
-			<item value="homework_2"/>
+			<item value="classwork_2024_03_10"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -73,6 +74,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="l_internationale"/>
 			<item value="classwork_2024_03_22"/>
 		</list>
 		<list key="version">
